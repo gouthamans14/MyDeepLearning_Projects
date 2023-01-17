@@ -1,0 +1,15 @@
+Problem statement: 
+
+Your model should detect number plate and identify the characters in the number plates. You should build the model using tensorflow/Keras or pytorch. You may leverage transfer learning.
+
+Deliverables:
+1. Detailed jupyter notebook with cleaning, labeling etc.
+2. Final model weights
+3. Testing scenarios
+etc.
+
+## File description:
+
+- Cars Folder: Contains the images of the cars, 
+- Labels: Annotations in `.txt` files (YOLO format)
+

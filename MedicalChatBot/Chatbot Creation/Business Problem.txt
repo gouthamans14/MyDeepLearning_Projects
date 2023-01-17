@@ -1,0 +1,13 @@
+Personal Doctor-Chatbot
+
+We would like to create chatbot(Question & Answer) to answer patient questions related to different medical problems. 
+
+Data Set: 
+Captured data from healthtap.com website where specialist doctors answering various questions of users related health problems.
+
+Expectation:
+You can build two chatbots
+1. Providing short answer for given question
+2. Providing detailed answer for given question
+
+You may train the model with partial data set incase you are facing an issue with computing power.
